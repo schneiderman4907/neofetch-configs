@@ -1,3 +1,3 @@
 # neofetch-configs
-this is my neofetch config \n
+this is my neofetch config
 its really cool
